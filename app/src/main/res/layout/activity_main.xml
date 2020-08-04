@@ -83,6 +83,12 @@
         android:layout_height="wrap_content"
         android:text="마케팅 활용 동의"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:src="@drawable/ryan_logo_01"
+        android:scaleType="centerCrop"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
